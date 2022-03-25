@@ -37,6 +37,12 @@ margin: 7px;
     border-radius: 0px 0px 8px 8px;
     position: absolute;
     bottom: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn-text{
+    margin-right: 9px;
 }
 .btn-cart:hover{
     background-color: orange;
