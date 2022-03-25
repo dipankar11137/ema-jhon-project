@@ -19,6 +19,9 @@ margin: 7px;
     margin-bottom: 0;
     margin-top: 5px;
 }
+.product-info h6{
+    margin-top: 5px;
+}
 .product-name{
     font-family: 'Lato';
     font-style: normal;
